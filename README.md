@@ -1,5 +1,3 @@
 # PestCounting
 
-
-
-test
+A repo for pest counting by ML or DL.
