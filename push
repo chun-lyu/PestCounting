@@ -1,7 +1,6 @@
-git
+git pull
 eval `ssh-agent -s`
 ssh-add ~/.ssh/id_rsa_cv
 git push
-git
 
 
